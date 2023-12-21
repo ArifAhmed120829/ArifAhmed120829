@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=wweverma1&theme=1)
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=ArifXX1&theme=1)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArifAhmed120829&theme=tokyonight)
 ![](https://leetcard.jacoblin.cool/ArifXx1?ext=heatmap)
 ![](https://raw.githubusercontent.com/ArifAhmed120829/cf_statss/main/output/light_card.svg#gh-dark-mode-only)
